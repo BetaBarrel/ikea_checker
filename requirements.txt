@@ -1,0 +1,7 @@
+APScheduler==3.6.3
+pytz==2020.1
+selenium==3.141.0
+six==1.15.0
+tzlocal==2.1
+urllib3==1.25.10
+win10toast==0.9
